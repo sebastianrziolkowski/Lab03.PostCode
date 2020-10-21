@@ -1,0 +1,7 @@
+C:\Users\SebastianZiółkowski\source\repos\Lab03.PostCode\Lab03.PostCode\bin\Debug\Lab03.PostCode.exe.config
+C:\Users\SebastianZiółkowski\source\repos\Lab03.PostCode\Lab03.PostCode\bin\Debug\Lab03.PostCode.exe
+C:\Users\SebastianZiółkowski\source\repos\Lab03.PostCode\Lab03.PostCode\bin\Debug\Lab03.PostCode.pdb
+C:\Users\SebastianZiółkowski\source\repos\Lab03.PostCode\Lab03.PostCode\obj\Debug\Lab03.PostCode.csprojAssemblyReference.cache
+C:\Users\SebastianZiółkowski\source\repos\Lab03.PostCode\Lab03.PostCode\obj\Debug\Lab03.PostCode.csproj.CoreCompileInputs.cache
+C:\Users\SebastianZiółkowski\source\repos\Lab03.PostCode\Lab03.PostCode\obj\Debug\Lab03.PostCode.exe
+C:\Users\SebastianZiółkowski\source\repos\Lab03.PostCode\Lab03.PostCode\obj\Debug\Lab03.PostCode.pdb
